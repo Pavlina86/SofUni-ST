@@ -1,0 +1,2 @@
+# SofUni-ST
+uprajenie pyrwo
